@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/14134588?v=4"  />
+  <img style="border-radius:10px" src="https://github.com/httzipdev/httzipdev/assets/14134588/8d22287a-8aca-4dff-880e-4cb4b553e049"  />
 </div>
+
 
 ###
 
